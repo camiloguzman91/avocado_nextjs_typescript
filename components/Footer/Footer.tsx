@@ -42,6 +42,9 @@ const Footer = () => (
               Platzi dictado por{' '}
               <a href="https://twitter.com/jonalvarezz">@jonalvarezz</a>
             </p>
+            <p>
+              Proyecto hecho por: Camilo Guzmán
+            </p>
             <List horizontal style={{ display: 'flex' }}>
               <List.Item
                 icon="twitter"
